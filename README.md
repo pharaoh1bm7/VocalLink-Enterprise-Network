@@ -1,6 +1,7 @@
 # VocalLink-Enterprise-Network
 
 <img width="1151" height="790" alt="Screenshot 2026-04-13 103621" src="https://github.com/user-attachments/assets/991ab29b-c526-4a0b-861a-d5225de0bd48" />
+
 # VocalLink: OmniChannel Contact Center Infrastructure
 
 ## Overview
